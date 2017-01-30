@@ -21,6 +21,7 @@ A curated list of awesome i18n resources
 * [International Telephone Input](http://jackocnr.com/intl-tel-input.html)
 * [Polyglot.js](http://airbnb.io/polyglot.js/) Make your application speak multiple languages
 * [i18next](http://i18next.com/) i18next is a full-featured i18n javascript library for translating your web application
+* [c-3po.js](http://c-3po.js.org) javascript library for translations based on es6 template literals.
 
 ## Ruby
 
