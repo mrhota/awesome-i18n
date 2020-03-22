@@ -13,7 +13,7 @@ A curated list of awesome i18n resources
 
 ## JavaScript
 
-* [ECMAScript Internationalization API](http://docs.webplatform.org/wiki/apis/internationalization)
+* [ECMAScript Internationalization API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl)
 * [Globalize](https://github.com/jquery/globalize)  A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data
 * [Intl.js](https://github.com/andyearnshaw/Intl.js)  Compatibility implementation of the ECMAScript Internationalization API (ECMA-402) for JavaScript
 * [Jed](http://slexaxton.github.io/Jed/) Gettext Style i18n for Modern JavaScript Apps
