@@ -10,6 +10,7 @@ A curated list of awesome i18n resources
 * [W3C Internationalization overview](http://www.w3.org/standards/webdesign/i18n)
 * [W3C Internationalization Activity homepage](http://www.w3.org/International/)
 * [GNU gettext](http://www.gnu.org/software/gettext/) A very popular tool for adding native language support to applications
+* [attranslate](https://github.com/fkirc/attranslate) Semi-automated translation for JSON, YAML, PO/POT and other file-formats
 
 ## JavaScript
 
