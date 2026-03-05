@@ -11,6 +11,7 @@ A curated list of awesome i18n resources
 * [W3C Internationalization Activity homepage](http://www.w3.org/International/)
 * [GNU gettext](http://www.gnu.org/software/gettext/) A very popular tool for adding native language support to applications
 * [attranslate](https://github.com/fkirc/attranslate) Semi-automated translation for JSON, YAML, PO/POT and other file-formats
+* [ai-i18n](https://github.com/i18n-actions/ai-i18n) GitHub Action that automatically translates i18n files (XLIFF, JSON) using LLM providers (Anthropic, OpenAI, Ollama) with glossary support and change detection
 
 ## JavaScript
 
