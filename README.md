@@ -24,6 +24,7 @@ A curated list of awesome i18n resources
 * [lisan.js](http://lisanjs.com) **i18n**, Reimagined! 🚀A blazing fast and super small i18n library for Javascript.
 * [Polyglot.js](http://airbnb.io/polyglot.js/) Make your application speak multiple languages
 * [i18next](http://i18next.com/) i18next is a full-featured i18n javascript library for translating your web application
+* [@i18n-micro/runtime](https://www.npmjs.com/package/@i18n-micro/runtime) Framework-agnostic createI18n for vanilla JS/TS (browser and workers, no fs)
 * [c-3po.js](http://c-3po.js.org) javascript library for translations based on es6 template literals.
 
 ## Ruby
