@@ -30,6 +30,10 @@ A curated list of awesome i18n resources
 
 * [TwitterCLDR](https://github.com/twitter/twitter-cldr-rb)  Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
 
+## Go
+
+* [go-propisyu](https://github.com/rekurt/go-propisyu) Russian number-to-words and monetary-amount formatting for Go, with grammatical gender and ordinals.
+
 ## Dates and Times
 
 * [Daylight saving time and time zone best practices](http://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices)
