@@ -30,6 +30,10 @@ A curated list of awesome i18n resources
 
 * [TwitterCLDR](https://github.com/twitter/twitter-cldr-rb)  Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
 
+## Rust
+
+* [Chislo](https://github.com/rekurt/chislo) Russian number-to-words formatting for Rust, including monetary amounts, ordinals, dates and times.
+
 ## Dates and Times
 
 * [Daylight saving time and time zone best practices](http://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices)
